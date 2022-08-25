@@ -10,7 +10,7 @@ Vào cuối những năm 1980, Guido Van Rossum làm việc trong Amoeba, phân 
 Ồ, Python không phải được đặt theo tên của con rắn thần Python trong thần thoại Hy Lạp đâu. Rossum là fan của một sê-ri chương trình hài cuối những năm 1970, và cái tên “Python” được lấy từ tên một phần trong sê-ri đó “Monty Python’s Flying Circus”.
 
 # Các phiên bản Python đã phát hành
-Phiên bản	Ngày phát hành
+**Phiên bản	Ngày phát hành**
 
 Python 1.0 (bản phát hành chuẩn đầu tiên)
 
