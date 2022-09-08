@@ -86,9 +86,9 @@
                 phpinfo();
                 ?>
 
-![image](https://user-images.githubusercontent.com/95491130/183229889-bb75497a-70e0-42f3-9f7b-a489c796b928.png)
+![image](https://user-images.githubusercontent.com/111720261/189065582-0266c0e8-8dd7-4cff-9288-556ece294624.png)
 
-- Sau đó tiến hành “Lưu lại”
+- Sau đó tiến hành “Lưu lại” ấn tổ hợp phím Ctrl + o 
 
 # Bây giờ các bạn mở trình duyệt lên và gõ địa chỉ:http://192.168.23.132/info.php, nếu kết quả hiển thị như hình dưới là việc cài đặt của chúng ta đã thành công
 
