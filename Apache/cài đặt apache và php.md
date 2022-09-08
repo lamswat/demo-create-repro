@@ -123,12 +123,11 @@
 
 #  trình duyệt, vào đường dẫn sau để truy cập vào phpMyadmin: https://127.0.0.1/phpmyadmin
 
-![image](https://user-images.githubusercontent.com/111720261/188842388-62d193f4-a7d3-4fe9-bbef-0950a703f00f.png)
-
+![image](https://user-images.githubusercontent.com/111720261/189021917-bb602bad-5e88-4c34-9e8d-bc0b813b59f4.png)
 
 # đăng nhập vào bằng tài khoản root để kiểm tra:
 
-![image](https://user-images.githubusercontent.com/95491130/183231967-0dbf4158-5fc1-4705-a327-5cc5d7e5b16a.png)
+![image](https://user-images.githubusercontent.com/111720261/189022109-15f486be-7b15-4c2e-b242-0107b4efd6ae.png)
 
 ![image](https://user-images.githubusercontent.com/95491130/183231975-763ed3be-3b5c-4dfe-9625-e4ecd0efd9a0.png)
 
