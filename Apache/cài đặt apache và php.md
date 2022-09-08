@@ -16,22 +16,21 @@
                      
 # Bước 2: Sau khi cài đặt hoàn tất, các bạn có thể sử dụng các lệnh sau để quản lý Apache
 
-          systemctl start httpd      (Khởi động dịch vụ Apache)
+          sudo systemctl start httpd      (Khởi động dịch vụ Apache)
 
-          systemctl stop httpd       (Dừng dịch vụ Apache)
+          sudo systemctl stop httpd       (Dừng dịch vụ Apache)
 
-          systemctl reload httpd     (Tải lại dịch vụ Apache)
+          sudo systemctl reload httpd     (Tải lại dịch vụ Apache)
 
-          systemctl restart httpd    (Khởi động lại  dịch vụ Apache:)
+          sudo systemctl restart httpd    (Khởi động lại  dịch vụ Apache:)
 
-          systemctl enable httpd     (Thiết lập Apache khởi động cùng hệ thống)
+          sudo systemctl enable httpd     (Thiết lập Apache khởi động cùng hệ thống)
 
-          systemctl disable httpd    (Vô hiệu hoá Apache khởi động cùng hệ thống )
+          sudo systemctl disable httpd    (Vô hiệu hoá Apache khởi động cùng hệ thống )
 
-          systemctl status httpd     (Xem trạng thái dịch vụ Apache)
+          sudo systemctl status httpd     (Xem trạng thái dịch vụ Apache)
           
-![image](https://user-images.githubusercontent.com/95491130/183229023-bdfd091e-8a58-444c-ae9c-96d4e7563cef.png)
-
+![image](https://user-images.githubusercontent.com/111720261/189018860-df71a49e-8271-4236-a213-0378cae02de5.png)
           
 # Bước 3: Mặc định trên Centos 7 sẽ sử dụng tường lửa là Firewall, nên các bạn cần thực hiện mở Port dịch vụ Apache với Firewall theo các cách sau
 
@@ -58,18 +57,20 @@
 # Bước 2: Sau khi cài đặt gói Remi xong, các bạn cần chọn phiên bản PHP mà mình cần cài đặt và kích hoạt gói chứa phiên bản PHP đó. Ở hướng dẫn này mình sẽ cài đặt PHP 8.0 nên sẽ kích hoạt gói bằng lệnh sau
 
           yum-config-manager --enable remi-php80
-          
+  
+  ![image](https://user-images.githubusercontent.com/111720261/189019568-c82d27b7-5b9e-464f-8178-7b1930b3579e.png)
+
 # Bước 3: Khi module remi-80 của PHP đã được bật, bạn có thể tiến hành cài đặt PHP và các PHP Extension cần thiết bằng lệnh bên dưới:
 
           yum install -y php php-ldap php-zip php-embedded php-cli php-mysql php-common php-gd php-xml php-mbstring php-mcrypt php-pdo php-soap php-json php-simplexml php-process php-curl php-bcmath php-snmp php-pspell php-gmp php-intl php-imap perl-LWP-Protocol-https php-pear-Net-SMTP php-enchant php-pear php-devel php-zlib php-xmlrpc php-tidy php-opcache php-cli php-pecl-zip unzip gcc
 
-![image](https://user-images.githubusercontent.com/95491130/183229549-4cfa1713-d5fc-4696-aab1-8e85e305e140.png)
+![image](https://user-images.githubusercontent.com/111720261/189019275-e37993dc-487f-4b13-835f-6a5b24fe67fe.png)
 
 # Bước 4: hiên bản PHP vừa cài đặt bằng cách
 
             php -v
             
-![image](https://user-images.githubusercontent.com/95491130/183229568-366afd40-84ce-4371-908d-e06594cff48a.png)
+![image](https://user-images.githubusercontent.com/111720261/189019809-4b94d0b9-4158-43ed-9e67-792b78a357d8.png)
 
 # 4. kiểm tra việc apache kiểm soát php.
 
@@ -91,7 +92,7 @@
 
 # Bây giờ các bạn mở trình duyệt lên và gõ địa chỉ:http://192.168.23.132/info.php, nếu kết quả hiển thị như hình dưới là việc cài đặt của chúng ta đã thành công
 
-![image](https://user-images.githubusercontent.com/111720261/188841494-36377623-a680-400c-bc8a-e0ab3a5fe7d0.png)
+![image](https://user-images.githubusercontent.com/111720261/189020239-480a65ab-9225-4df2-9ea0-306098c29148.png)
 
 # 5. Cài đặt PhpAdmin(tùy chọn).
 
