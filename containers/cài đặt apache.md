@@ -63,7 +63,7 @@
 
           yum install -y php php-ldap php-zip php-embedded php-cli php-mysql php-common php-gd php-xml php-mbstring php-mcrypt php-pdo php-soap php-json php-simplexml php-process php-curl php-bcmath php-snmp php-pspell php-gmp php-intl php-imap perl-LWP-Protocol-https php-pear-Net-SMTP php-enchant php-pear php-devel php-zlib php-xmlrpc php-tidy php-opcache php-cli php-pecl-zip unzip gcc
 
-![image](https://user-images.githubusercontent.com/95491130/183229549-4cfa1713-d5fc-4696-aab1-8e85e305e140.png)
+![image](https://user-images.githubusercontent.com/111720261/189262960-5ae5c6f0-fdde-4f36-8730-12765433944f.png)
 
 # Bước 4: hiên bản PHP vừa cài đặt bằng cách
 
@@ -91,7 +91,7 @@
 
 # Bây giờ các bạn mở trình duyệt lên và gõ địa chỉ:http://192.168.23.132/info.php, nếu kết quả hiển thị như hình dưới là việc cài đặt của chúng ta đã thành công
 
-![image](https://user-images.githubusercontent.com/111720261/188841494-36377623-a680-400c-bc8a-e0ab3a5fe7d0.png)
+![image](https://user-images.githubusercontent.com/111720261/189264236-c06b78b6-0993-492a-919d-71a6c0ff27c1.png)
 
 # 5. Cài đặt PhpAdmin(tùy chọn).
 
@@ -122,14 +122,14 @@
 
 #  trình duyệt, vào đường dẫn sau để truy cập vào phpMyadmin: https://127.0.0.1/phpmyadmin
 
-![image](https://user-images.githubusercontent.com/111720261/188842388-62d193f4-a7d3-4fe9-bbef-0950a703f00f.png)
+![image](https://user-images.githubusercontent.com/111720261/189264048-ee19a5d4-e5ff-456d-90c9-6fed44a3bdbd.png))
 
 
 # đăng nhập vào bằng tài khoản root để kiểm tra:
 
-![image](https://user-images.githubusercontent.com/95491130/183231967-0dbf4158-5fc1-4705-a327-5cc5d7e5b16a.png)
+![image](https://user-images.githubusercontent.com/111720261/189264021-9288f5f9-efad-44f5-a5c2-b9f32423b4a3.png)
 
-![image](https://user-images.githubusercontent.com/95491130/183231975-763ed3be-3b5c-4dfe-9625-e4ecd0efd9a0.png)
+
 
 
 
