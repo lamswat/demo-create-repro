@@ -127,7 +127,7 @@
 
 # đăng nhập vào bằng tài khoản root để kiểm tra:
 
-![image](https://user-images.githubusercontent.com/111720261/189264021-9288f5f9-efad-44f5-a5c2-b9f32423b4a3.png)
+![image](https://user-images.githubusercontent.com/111720261/189265049-6330c81d-cf53-4429-860a-6441f375f293.png)
 
 
 
