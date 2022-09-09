@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/111720261/189311259-0a155ec8-8f07-4f59-bcae-454ba55d5a98.png)
+
+
 # Web server là gì? Hiểu rõ về web server
 # Web server là gì?
 Web server là máy chủ cài đặt các chương trình phục vụ các ứng dụng web. Webserver có khả năng tiếp nhận request từ các trình duyệt web và gửi phản hồi đến client thông qua giao thức HTTP hoặc các giao thức khác. Có nhiều web server khác nhau như: Apache, Nginx, IIS, … Web server thông dụng nhất hiện nay:
