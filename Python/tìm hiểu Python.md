@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/111720261/189841994-4a0b62d7-39c2-41d0-8782-38d8277cda5d.png)
+
 1. khái quát 
 
 * Guido van Rosseum phát triển năm 1990.
