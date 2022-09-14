@@ -4,10 +4,6 @@
 
 # bước 2: chạy file.exe vừa tải về
 
-![image](https://user-images.githubusercontent.com/110179869/189792946-4b75a61f-3389-4a54-9efe-287ed1780437.png)
-
-- chọn add Pyhton 3.10 to PATH để chương trình tự cài đặt biến môi trường
-
 ![image](https://user-images.githubusercontent.com/110179869/189793041-3d834c2a-9c42-4124-aeb3-be5ae147c3b6.png)
 
 - chọn Install now
@@ -22,4 +18,4 @@
 
 # Bước 3: kiểm tra lại xem đã cài đặt thành công chưa: vào cmd gõ python
 
-![image](https://user-images.githubusercontent.com/110179869/189793451-385e78e4-85ed-414b-8679-2d64cf331ca8.png)
+![image](https://user-images.githubusercontent.com/111720261/190051439-14132b5a-01d5-4f2f-93ae-787c4a5e1116.png)
