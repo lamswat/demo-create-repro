@@ -1,8 +1,8 @@
 # Tìm hiểu về MySQL và MariaDB  
 ## 1. Lịch sử phát triển  
 
-`MySQL` là gì? MySQL là một trong những cơ sở dữ liệu được sử dụng rộng rãi nhất trên thế giới được phát triển dựa trên C/C ++. MySQL sau đó được Sun Microsystems mua lại vào năm 2008. Tiếp sau đó vào năm 2010 Sun Microsystems đã được Oracle mua lại và kể từ đó MySQL được duy trì và quản lý bởi đội ngũ Oracle.  
-`MariaDB` là gì? Trong quá trình mua lại Sun Microsystems của Oracle thì một số kỹ sư cao cấp đang nghiên cứu phát triển MySQL cảm thấy có xung đột lợi ích giữa cơ sở dữ liệu thương mại của MySQL và Oracle. Kết quả là các kỹ sư đó đã tạo ra một nhánh của cơ sở mã MySQL và như thế MariaDB được tạo ra.  
+ MySQL là gì? MySQL là một trong những cơ sở dữ liệu được sử dụng rộng rãi nhất trên thế giới được phát triển dựa trên C/C ++. MySQL sau đó được Sun Microsystems mua lại vào năm 2008. Tiếp sau đó vào năm 2010 Sun Microsystems đã được Oracle mua lại và kể từ đó MySQL được duy trì và quản lý bởi đội ngũ Oracle.  
+MariaDB là gì? Trong quá trình mua lại Sun Microsystems của Oracle thì một số kỹ sư cao cấp đang nghiên cứu phát triển MySQL cảm thấy có xung đột lợi ích giữa cơ sở dữ liệu thương mại của MySQL và Oracle. Kết quả là các kỹ sư đó đã tạo ra một nhánh của cơ sở mã MySQL và như thế MariaDB được tạo ra.  
 ![image](https://user-images.githubusercontent.com/111720261/189604889-35040d3e-0b3e-4636-b47e-e548514cf3f4.png)
 Theo số liệu thống kê thì MySQL được xếp thứ 2 trong số các cơ sở dữ liệu quan hệ và MariaDB xếp ở vị trí thứ 9 (đứng đầu là cơ sở dữ liệu Oracle).  
 
