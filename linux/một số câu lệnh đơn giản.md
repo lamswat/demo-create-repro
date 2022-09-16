@@ -3,7 +3,7 @@
 - logout: tương tự exit.
 - reboot: khởi động lại hệ thống.
 - halt: tắt máy.
-- startx:khởi động chế độ xwindows từ cửa sổ terminal.
+- start:khởi động chế độ xwindows từ cửa sổ terminal.
 - mount: gắn hệ thống tập tin từ một thiết bị lưu trữ vào cây thư mục chính.
 - unmount: ngược với lệnh mount.
 # lệnh thao tác trên tập tin
